@@ -1,0 +1,29 @@
+.addName {
+  margin-top: 100px;
+  width: 408px;
+}
+
+.addForm {
+  width: 420px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.addForm > input {
+  font-size: 18px;
+  text-align: center;
+}
+
+#nameField {
+  width: 244px;
+  height: 38px;
+}
+
+.addBtn {
+  width: 148px;
+  height: 38px;
+  border-radius: 4px;
+  font-size: 18px;
+  cursor: pointer;
+}
