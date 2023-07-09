@@ -1,0 +1,31 @@
+.touristCard {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 410px;
+  margin-bottom: 10px;
+}
+
+.deleteIcon {
+  cursor: pointer;
+}
+
+.deleteIcon:hover {
+  opacity: 0.9;
+  cursor: pointer;
+  color: #f70707;
+  transition: all 0.3s;
+}
+
+.openCalendarBtn {
+  cursor: pointer;
+}
+
+.openCalendarBtn > svg:hover {
+  cursor: pointer;
+  color: #f70707;
+}
+
+.touristCardName {
+  margin-left: 20px;
+}
